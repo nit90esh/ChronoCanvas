@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "ChronoCanvas",
+  "version": "1.0",
+  "description": "Transform your new tab into an elegant analog clock with time-aware dynamic wallpapers and daily motivational quotes.",
+  "chrome_url_overrides": {
+    "newtab": "new_tab.html"
+  },
+  "permissions": ["storage"]
+}
