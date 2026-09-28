@@ -32,5 +32,5 @@
 
 1. **Clone or Download the Repository:**
    ```bash
-   git clone [https://github.com/nit90esh/ChronoCanvas.git](https://github.com/your-username/chronocanvas.git)
+   git clone [https://github.com/nit90esh/ChronoCanvas.git](https://github.com/nit90esh/ChronoCanvas.git)
    ```
