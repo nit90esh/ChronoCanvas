@@ -1,4 +1,4 @@
-const UNSPLASH_ACCESS_KEY = "";
+const UNSPLASH_ACCESS_KEY = "GUGU8HN5OMYC8-n5NSrhpUCYnnNurbcKLxNs8QnyO2s";
 const UNSPLASH_API_URL = "https://api.unsplash.com/search/photos";
 let globalTimeOfDay = null;
 const body = document.getElementsByTagName("body")[0];
